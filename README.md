@@ -1,6 +1,5 @@
 # RTS_LAB_EVAL1
 "An embedded system using FreeRTOS on STM32F401CCU6 to measure distance with an ultrasonic sensor for precise and efficient real-time applications."
-
 ## Legend
 
 <div align="center">
